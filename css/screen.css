@@ -15,7 +15,7 @@ hr{border-color:#e5e5e5}
 .jadeLabel{-webkit-transition-delay:1.4s;-moz-transition-delay:1.4s;-o-transition-delay:1.4s;-ms-transition-delay:1.4s;transition-delay:1.4s;right:10%;top:-30px;background-image:url("../img/jade.png");width:132px}
 .dataLabel{-webkit-transition-delay:1.5s;-moz-transition-delay:1.5s;-o-transition-delay:1.5s;-ms-transition-delay:1.5s;transition-delay:1.5s;right:9%;bottom:-32px;background-image:url("../img/data.png");width:130px}
 .htmlLabel{-webkit-transition-delay:1.6s;-moz-transition-delay:1.6s;-o-transition-delay:1.6s;-ms-transition-delay:1.6s;transition-delay:1.6s;left:9%;top:-33px;background-image:url("../img/html.png");width:146px}
-textarea{text-align:left;width:91%;display:inline-block;padding:8.5px;margin:0 0 6px;font-size:15px;line-height:24px;word-break:break-all;word-wrap:break-word;white-space:pre;white-space:pre-wrap;background-color:#f5f5f5;border:1px solid rgba(0,0,0,0.15);-webkit-border-radius:4px;border-radius:4px;font-family:'Droid Sans Mono',sans-serif;color:#333;}
+textarea{resize:vertical;text-align:left;width:91%;display:inline-block;padding:8.5px;margin:0 0 6px;font-size:15px;line-height:24px;word-break:break-all;word-wrap:break-word;white-space:pre;white-space:pre-wrap;background-color:#f5f5f5;border:1px solid rgba(0,0,0,0.15);-webkit-border-radius:4px;border-radius:4px;font-family:'Droid Sans Mono',sans-serif;color:#333;}
 textarea.html{cursor:default}
 textarea.error{color:#f00}
 textarea.size1{height:24px}
